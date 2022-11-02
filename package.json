@@ -1,8 +1,13 @@
 {
   "name": "zenn-docs",
+  "license": "MIT",
   "description": "https://zenn.dev/dg4_design",
   "author": "dg4-design <ren.y@dgdgdgdg.com>",
   "dependencies": {
     "zenn-cli": "^0.1.131"
+  },
+  "scripts": {
+    "new": "npx zenn new:article",
+    "pre": "npx zenn preview"
   }
 }

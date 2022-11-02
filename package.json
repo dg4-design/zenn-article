@@ -1,0 +1,8 @@
+{
+  "name": "zenn-docs",
+  "description": "https://zenn.dev/dg4_design",
+  "author": "dg4-design <ren.y@dgdgdgdg.com>",
+  "dependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}

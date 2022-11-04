@@ -4,9 +4,9 @@
 
 * 拡張機能追加方法
   1. 拡張機能タブの検索欄に、「@recommended」と入力
-     ![image01](/README/image01.png)
+     ![image01](/images/README/image01.png)
   2. 雲のアイコンで一括インストール
-     ![image02](/README/image02.png)
+     ![image02](/images/README/image02.png)
 
 ## 📘 How to use
 
@@ -23,5 +23,5 @@
 ## 📝 Write
 
 * テンプレート  
-  [_temp-basic](/articles/_temp-basic.md)
+  [_temp-basic](/articles/_template-basic.md)
 * [ZennのMarkdown記法一覧](https://zenn.dev/zenn/articles/markdown-guide)

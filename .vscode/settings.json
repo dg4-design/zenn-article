@@ -5,5 +5,8 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.tabSize": 2,
   "editor.stickyTabStops": true,
-  "cSpell.words": ["dgdgdgdg", "zenn"]
+  "cSpell.words": ["dgdgdgdg", "zenn"],
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  }
 }

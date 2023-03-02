@@ -14,9 +14,11 @@
 
 * プレビュー
   * Zenn CLI を使う方法  
+
     ```zsh
     yarn pre
     ```
+
   * Zenn Editor(VSCode非公式拡張)を使う方法  
     拡張機能を[インストール](https://marketplace.visualstudio.com/items?itemName=negokaz.zenn-editor)
 
@@ -26,6 +28,7 @@
   ```zsh
   yarn new
   ```
+
 * [参考記事](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 ## 📝 Write

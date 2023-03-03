@@ -41,10 +41,9 @@ Chrome拡張機能のフォルダを作成します。
   "manifest_version": 3,
 
   "action": {
-    "default_title": "Bookmark dg4",
     "default_icon": "icon.png"
   },
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["tabs"],
   "background": {
     "service_worker": "background.js"
   }
